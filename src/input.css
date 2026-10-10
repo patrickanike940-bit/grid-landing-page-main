@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.myhead{
+  @apply flex justify-between border-b border-solid border-white
+}
+
+
